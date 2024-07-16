@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="397273e8-8753-48fe-8142-c695e6356008" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bucleWhileyDowhile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adivinaJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculadoraSumaAcumulada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contadorParesImpares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contarDigitos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tablaMultiplicar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validacionContraseña.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whileDowhile.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2jIvmHqiTaV7ZNiRuYsrGMIfN7M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.adivinaJava.executor": "Run",
+    "Application.calculadoraSumaAcumulada.executor": "Run",
+    "Application.contadorParesImpares.executor": "Run",
+    "Application.contarDigitos.executor": "Run",
+    "Application.tablaMultiplicar.executor": "Run",
+    "Application.validacionContraseña.executor": "Run",
+    "Application.whileDowhile.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.calculadoraSumaAcumulada">
+    <configuration name="calculadoraSumaAcumulada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calculadoraSumaAcumulada" />
+      <module name="bucleWhileyDowhile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="contadorParesImpares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contadorParesImpares" />
+      <module name="bucleWhileyDowhile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="contarDigitos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contarDigitos" />
+      <module name="bucleWhileyDowhile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tablaMultiplicar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tablaMultiplicar" />
+      <module name="bucleWhileyDowhile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="validacionContraseña" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="validacionContraseña" />
+      <module name="bucleWhileyDowhile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.calculadoraSumaAcumulada" />
+        <item itemvalue="Application.contadorParesImpares" />
+        <item itemvalue="Application.tablaMultiplicar" />
+        <item itemvalue="Application.contarDigitos" />
+        <item itemvalue="Application.validacionContraseña" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="397273e8-8753-48fe-8142-c695e6356008" name="Changes" comment="" />
+      <created>1721087563671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721087563671</updated>
+    </task>
+    <servers />
+  </component>
+</project>
